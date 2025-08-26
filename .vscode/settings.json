@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on"
+}
